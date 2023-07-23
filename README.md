@@ -6,4 +6,4 @@
 
 Tela de atualização do windows fake para pegadinhas.
 
-Link do GitPages: https://jvitor88.github.io/fake-update-screen/
+Acesse pelo link do GitPages: https://jvitor88.github.io/fake-update-screen/
